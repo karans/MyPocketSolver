@@ -1,0 +1,1 @@
+Implemented using the DDMathParser by DaveDeLong @ https://github.com/davedelong. Working on fixing the code breaking with the equation solver when the answer is close to 0 with higher order polynomials.
